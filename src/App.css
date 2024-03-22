@@ -4,3 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
+
+.app-titulo {
+  text-align: center;
+  color: orange;
+}
+
+.fondo {
+  background: brown;
+}
